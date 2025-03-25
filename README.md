@@ -1,5 +1,5 @@
 
-# Discord Chatbot Powered by Open WebUI
+# Local LLM Discord Chatbot Powered by Open WebUI
 
 This is a modular and customizable Discord chatbot that connects to your **local LLM** using [Open WebUI](https://github.com/open-webui/open-webui) via REST API.
 
